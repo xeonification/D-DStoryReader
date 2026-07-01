@@ -4,8 +4,8 @@ A local text-to-speech tool for reading Dungeons & Dragons adventure text, sessi
 
 Paste in a scene description, room text, or NPC dialogue, pick a voice, and it renders a `.wav` file you can drop straight into a session — fully offline, no API keys, no cloud calls. Handy for DMs who want a consistent narrator voice for pre-written boxed text, or for pre-recording flavor text and NPC lines ahead of a session.
 
-<img width="515" height="416" alt="Page3" src="https://github.com/user-attachments/assets/2a1b600a-9d33-4711-9a2e-ee78bf2d6a3a" />
-<img width="515" height="325" alt="Page1" src="https://github.com/user-attachments/assets/a5a00f89-8167-4c89-a928-cf20a8bf9cfb" />
+<img width="515" height="416" alt="Page3" src="https://github.com/user-attachments/assets/2a1b600a-9d33-4711-9a2e-ee78bf2d6a3a" >
+<img width="515" height="325" alt="Page1" src="https://github.com/user-attachments/assets/a5a00f89-8167-4c89-a928-cf20a8bf9cfb" >
 <img width="510" height="337" alt="Pag2" src="https://github.com/user-attachments/assets/7ca64f95-f0b0-4e7b-abfa-3ace226c5048" />
 
 
